@@ -27,6 +27,6 @@ Database:
 PostgreSQL
 Live Demo
 https://assignment-reminder-chi.vercel.app
-https://github.com/reddileelasyamala-creator/assignment-reminder
+
 
 Author
